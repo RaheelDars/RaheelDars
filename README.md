@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raheeldars&label=Profile%20views&color=0e75b6&style=flat" alt="raheeldars" /> </p>
 
-- 🌱 I’m currently learning **OOP in C++ and Java**
+- 🌱 I’m currently learning **OOPs**
 
 - 📫 How to reach me **raheeldars73@gmail.com**
 

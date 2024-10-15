@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raheeldars&label=Profile%20views&color=0e75b6&style=flat" alt="raheeldars" /> </p>
 
-- 🌱 I’m currently Student of **BSCS** 
+- 🌱 I’m currently Student of **BS Computer Science** 
 - 📫 Reach me at Email: **raheeldars73@gmail.com**
 
 - ⚡ Fun fact **I am Funny😅**

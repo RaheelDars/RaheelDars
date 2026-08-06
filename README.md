@@ -19,39 +19,46 @@
 
   <br />
 
-  <!-- TECH STACK GRID -->
+<!-- TECH STACK GRID -->
   <h3>🛠️ Active Tech Stack</h3>
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br><b>Node.js</b>
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+        <br><b>HTML</b>
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br><b>Express</b>
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        <br><b>CSS</b>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+        <br><b>JavaScript</b>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap 5" />
+        <br><b>Bootstrap 5</b>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
         <br><b>React</b>
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br><b>MongoDB</b>
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br><b>C++</b>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br><b>Java (Basic)</b>
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-        <br><b>Python</b>
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-        <br><b>FastAPI</b>
+        <br><b>Python (Basic)</b>
       </td>
     </tr>
   </table>
 
   <br />
-
   <!-- RELIABLE STATS CARDS 
   <h3>📊 Performance Dashboard</h3>
   <p>

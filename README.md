@@ -6,10 +6,10 @@
   <h3>⚡ Core Backend Developer | MERN Stack & Python ⚡</h3>
 
   <p>
-    <a href="https://github.com/RaheelDars">
+    <a href="https://github.com/RaheelDars" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/raheel-dars-a496872a9">
+    <a href="https://linkedin.com/in/raheel-dars-a496872a9" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
@@ -49,9 +49,11 @@
 
   <br />
 
-  <!-- STATS CARDS (NO HEATMAP GRAPH) -->
+  <!-- RELIABLE STATS CARDS -->
   <h3>📊 Performance Dashboard</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=RaheelDars&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaheelDars&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <p>
+    <img src="https://streak-stats.demolab.com?user=RaheelDars&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=RaheelDars&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  </p>
 
 </div>

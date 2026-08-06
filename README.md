@@ -1,11 +1,7 @@
 <div align="center">
 
-  <!-- TOP ASCII NAME BANNER -->
-  <pre>
- █▀█ █▀█ █  █ █▀▀ █ █ █▀▄ █▀█ █▀▄ █▀▀
- █▀▄ █▀█ █▀█ █▀▀ █ █ █ █ █▀█ █▀▄ ▀▀█
- ▀ ▀ ▀ ▀ ▀  ▀ ▀▀▀ ▀▀▀ ▀▀  ▀ ▀ ▀ ▀ ▀▀▀
-  </pre>
+  <!-- PLAIN TEXT NAME HEADER -->
+  <h1 align="center">Raheel Dars</h1>
 
   <h3>⚡ Core Backend Developer | MERN Stack & Python ⚡</h3>
 
@@ -13,7 +9,7 @@
     <a href="https://github.com/RaheelDars">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://linkedin.com">
+    <a href="https://linkedin.com/in/raheel-dars-a496872a9">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>

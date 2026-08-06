@@ -3,23 +3,24 @@
   <!-- PLAIN TEXT NAME HEADER -->
   <h1 align="center">Raheel Dars</h1>
 
-  <h3>⚡  MERN Stack Developer ⚡ </h3>
+  <h3>⚡ MERN Stack Developer ⚡</h3>
 
+  <!-- WORKING CLICKABLE CONTACT BUTTONS -->
   <p>
-    <a href="https://github.com/RaheelDars" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <a href="https://github.com/RaheelDars" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://linkedin.com/in/raheel-dars-a496872a9" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/raheel-dars-a496872a9" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:raheeldars73@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:raheeldars73@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
 
   <br />
 
-<!-- TECH STACK GRID -->
+  <!-- TECH STACK GRID -->
   <h3>🛠️ Active Tech Stack</h3>
   <table>
     <tr>
@@ -59,10 +60,12 @@
   </table>
 
   <br />
-  <!-- RELIABLE STATS CARDS -->
+
+  <!-- STATS CARDS -->
   <h3>📊 Performance Dashboard</h3>
   <p>
     <img src="https://streak-stats.demolab.com?user=RaheelDars&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
     <img src="https://github-readme-stats-fast.vercel.app/api?username=RaheelDars&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
   </p>
+
 </div>

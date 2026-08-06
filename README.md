@@ -3,7 +3,7 @@
   <!-- PLAIN TEXT NAME HEADER -->
   <h1 align="center">Raheel Dars</h1>
 
-  <h3>⚡  MERN Stack Devloper ⚡ </h3>
+  <h3>⚡  MERN Stack Developer ⚡ </h3>
 
   <p>
     <a href="https://github.com/RaheelDars" target="_blank">

@@ -4,8 +4,21 @@
   <h1 align="center">Raheel Dars</h1>
 
   <h3>⚡ MERN Stack Developer ⚡</h3>
+  <p>
+    <a href="https://github.com/RaheelDars" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/raheel-dars" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
+    </a>
+    <a href="mailto:raheeldars73@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail" />
+    </a>
+  </p>
 
-  <!-- WORKING CLICKABLE CONTACT BUTTONS -->
+  <br />
+
+  <!-- WORKING CLICKABLE CONTACT BUTTONS 
   <p>
     <a href="https://github.com/RaheelDars">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -19,6 +32,7 @@
   </p>
 
   <br />
+  -->
 
   <!-- TECH STACK GRID -->
   <h3>🛠️ Active Tech Stack</h3>

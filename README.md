@@ -59,11 +59,10 @@
   </table>
 
   <br />
-  <!-- RELIABLE STATS CARDS 
+  <!-- RELIABLE STATS CARDS -->
   <h3>📊 Performance Dashboard</h3>
   <p>
     <img src="https://streak-stats.demolab.com?user=RaheelDars&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
     <img src="https://github-readme-stats-fast.vercel.app/api?username=RaheelDars&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
   </p>
--->
 </div>

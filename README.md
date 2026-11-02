@@ -1,8 +1,8 @@
-<div align="center">
+﻿<div align="center">
 
 <h1>Raheel Dars</h1>
 
-<h3>⚡ MERN Stack Developer ⚡</h3>
+<h3>âš¡ MERN Stack Developer âš¡</h3>
 
 <p>
   <a href="https://github.com/RaheelDars" target="_blank">
@@ -19,7 +19,7 @@
 <br />
 
 <!-- TECH STACK -->
-<h3>🛠️ Active Tech Stack</h3>
+<h3>ðŸ› ï¸ Active Tech Stack</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,html,css,tailwind,git" alt="Tech Stack" />
@@ -28,11 +28,11 @@
 <br />
 
 <!-- PERFORMANCE DASHBOARD -->
-<h3>📊 Performance Dashboard</h3>
+<h3>ðŸ“Š Performance Dashboard</h3>
 
 <p>
   <a href="https://github.com/RaheelDars">
-    <img src="https://streak-stats.demolab.com/?user=RaheelDars&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://raw.githubusercontent.com/RaheelDars/RaheelDars/main/assets/streak.svg" alt="GitHub Streak" />
   </a>
 </p>
 
